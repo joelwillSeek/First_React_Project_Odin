@@ -1,8 +1,8 @@
-# React + Vite
+# Project Functionality
+- just a simple app to enter name and it will update text in real time
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# How to run
+- just run ' npm run build ' then npm run dev '
+- and you will get a link one that in browser
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# HAVE FUN
